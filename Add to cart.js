@@ -16,5 +16,3 @@ window.addEventListener('DOMContentLoaded', ()=>{
         shopSec.style.display="none"
         cartSec.style.display="block"
     })
-
-    
